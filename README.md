@@ -48,3 +48,7 @@ pip install Scrapy
 scrapy startproject lawscrapper
 
 ```
+
+**Generate New Spider**
+
+`scrapy genspider `
